@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Editado desde Git Hub.
 Este es un mensaje que se edito y agrego directamente desde Git Hub.
+
+### Editando localmente.
+Ahora edito de forma locarl para posteriormete subir los archivos al remoto.
